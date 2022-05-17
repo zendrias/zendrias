@@ -25,7 +25,7 @@ As a software engineer I enjoy the process of every new challenge, & I want to m
 
   👨🏻‍💻 I’m currently working on a fitness tracking application;
   
-  🚀 I’m currently learning Data Structures and Algorithms on AlgoExpert;
+  🚀 I’m currently learning Data Structures, Algorithms, & Code Testing;
   
   💬 Ask me about anything, I am happy to help;
   
