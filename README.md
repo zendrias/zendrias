@@ -21,7 +21,7 @@ As a software engineer I enjoy the process of every new challenge, & I want to m
 
 ### Talking about Personal Stuffs:
 
-  👨🏻‍💻 I’m currently working on a fitness tracking application;
+  👨🏻‍💻 I’m currently working on a top secret project;
   
   🚀 I’m currently learning Data Structures, Algorithms, & Code Testing;
   
