@@ -23,7 +23,7 @@ As a software engineer I enjoy the process of every new challenge, & I want to m
 
   👨🏻‍💻 I’m currently working on a top secret project;
   
-  🚀 I’m currently learning Data Structures, Algorithms, & Code Testing;
+  🚀 I’m currently learning TypeScript & AWS Cloud Computing;
   
   💬 Ask me about anything, I am happy to help;
   
